@@ -1,6 +1,6 @@
 # Locale API
 
-This is an Locale Application built using Node.js Nest framework, which provides geographical, specifically for regions, states and local governments but includes several other metadatas.
+Locale is a developer tool for anyone who needs to know Nigeria, geographically at least. Locale’s API shows you all of Nigeria’s regions, states, and local government areas(LGAs).
 
 This API uses a database of location data and a caching mechanism for better performance. You will need an API key for authorization. The API endpoints and functionality can be found below.
 
@@ -63,12 +63,6 @@ The API will be accessible at `http://localhost:3000/` or `https://locale-api.on
 - Body:
 
 ```
-{
-    "username": "John Does",
-    "email": "john@gmail.com",
-    "password": "password23",
-
-}
 
 ```
 
